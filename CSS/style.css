@@ -1,9 +1,6 @@
-/* Hijo */
-div > p {
-    color: red;
+.text-container {
+    font-size: 1.5em;
 }
-
-/* Descendiente */
-/* div p {
-    color: red;
-} */
+.text-container div {
+    font-size: 1.5em;
+}
